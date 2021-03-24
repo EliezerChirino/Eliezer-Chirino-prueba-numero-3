@@ -1,0 +1,5 @@
+C:\Users\Virginia\Documents\SharpDevelop Projects\Programa 3\Programa 3\obj\Debug\Programa 3.csprojResolveAssemblyReference.cache
+C:\Users\Virginia\Documents\SharpDevelop Projects\Programa 3\Programa 3\bin\Debug\Programa 3.exe
+C:\Users\Virginia\Documents\SharpDevelop Projects\Programa 3\Programa 3\bin\Debug\Programa 3.pdb
+C:\Users\Virginia\Documents\SharpDevelop Projects\Programa 3\Programa 3\obj\Debug\Programa 3.exe
+C:\Users\Virginia\Documents\SharpDevelop Projects\Programa 3\Programa 3\obj\Debug\Programa 3.pdb
